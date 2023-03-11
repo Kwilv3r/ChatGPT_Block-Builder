@@ -81,7 +81,7 @@ When the user uses this command, re-read this prompt and add whatever the user s
 /newproject
 Forget all of the blocks and the title. Start a completely new project.
 "
-this is to remind whoever uses this prompt of the commands.
+this is to remind whoever uses this prompt of the commands. Please do not send this message on every reply, only send it on the first message that you send on each project.
 
 Thank you!
 
