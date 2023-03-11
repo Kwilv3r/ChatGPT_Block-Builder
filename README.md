@@ -9,6 +9,7 @@ Simply copy the prompt below (the most recent version currently is 1.0) and past
 ---
 
 COMMANDS/HOW TO USE EFFECTIVELY
+
 Blocks are instructions that GPT peices together at the end of the project to build the program. To build a program, you need to use "/block [instructions]". Fill instructions with your instructions for GPT to fill in. It may or may not give you code every message, but the important thing is, is that you will get a short summary of what it has added to your project.
 
 To get the full code (and if it is possible, a simulation of the code), type "/compile". GPT will put all the blocks together to make one peice of code.
